@@ -1,0 +1,14 @@
+{
+  "name": "7shifts-webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "MM263",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "animejs": "^3.1.0"
+  }
+}
